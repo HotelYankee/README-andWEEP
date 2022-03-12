@@ -32,6 +32,7 @@ npm run test
 
 * Website: https://github.com/HotelYankee/READitandWEEP
 * Github: [@HotelYankee](https://github.com/HotelYankee)
+* Demo: https://drive.google.com/file/d/1g8AwrhUzduWL4mVEt3uzu4sTDdLu2eV2/view
 
 ## Show your support
 
